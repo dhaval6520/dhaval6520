@@ -6,7 +6,7 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dhaval6520&label=Profile%20views&color=0e75b6&style=flat"
     alt="dhaval6520" /> 
   </p>
- I'm a passionate **WordPress Developer** specializing in building custom websites, themes, and plugins. I love creating fast, responsive, and SEO-friendly WordPress solutions that bring ideas to life!
+ I'm a passionate WordPress Developer specializing in building custom websites, themes, and plugins. I love creating fast, responsive, and SEO-friendly WordPress solutions that bring ideas to life!
 
 ---
 
