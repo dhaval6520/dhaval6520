@@ -27,12 +27,6 @@
 
 - **Email**: dhaval6520@gmail.com
 
-### 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaval6520&show_icons=true&theme=dark)
-
----
-
 ### 💻 **Languages & Tools**
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
